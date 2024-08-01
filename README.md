@@ -46,3 +46,7 @@ CODE4:
 OUTPUT4:
 
 ![image](https://github.com/user-attachments/assets/04ffb5f1-d07a-4133-9850-ff4a2c43ebef)
+
+Conclusion:
+
+Understanding C++ decision-making operators—if, else, else if, switch, and the ternary operator—enables you to control the flow of your program based on conditions. These tools help you execute different code paths depending on specific criteria, making your code more dynamic and responsive.
