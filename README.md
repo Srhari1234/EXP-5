@@ -14,3 +14,6 @@ if else is a conditional statement used when there are conditions, for example i
 Nested if else is a part of those conditional statements however theyre one inside another to reduce the length of the code. It can be a bit complicated to understand though.
 
 The switch expression is evaluated once and the value of the expression is compared with the values of each case. if there is a match, the associated block of code is executed
+
+CODE1:
+
