@@ -37,7 +37,7 @@ int main() {
 }
 ```
 
-CODE2:
+## CODE2:
 
 ```
 //Name:-Srihari Nair
@@ -76,7 +76,7 @@ int main() {
 }
 ```
 
-CODE3:
+## CODE3:
 
 ```
 //Name:-Srihari Nair
@@ -104,7 +104,7 @@ int main() {
 }
 ```
 
-CODE4:
+## CODE4:
 
 ```
 //Name:-Srihari Nair
