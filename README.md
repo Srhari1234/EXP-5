@@ -37,6 +37,10 @@ int main() {
 }
 ```
 
+## OUTPUT 1: -
+
+![image](https://github.com/user-attachments/assets/ca54ab56-d3b1-4576-ba88-7d9a0ff35114)
+
 ## CODE2:
 
 ```
@@ -76,6 +80,10 @@ int main() {
 }
 ```
 
+## OUTPUT 2: -
+
+![image](https://github.com/user-attachments/assets/63cce8e7-6f8a-4650-aa34-a7e989298bb6)
+
 ## CODE3:
 
 ```
@@ -103,6 +111,10 @@ int main() {
     return 0;
 }
 ```
+
+## OUTPUT 3: -
+
+![image](https://github.com/user-attachments/assets/33e5c2ef-9bab-4179-a27f-e3f8ac82cdd5)
 
 ## CODE4:
 
@@ -152,6 +164,10 @@ int main() {
     return 0;
 }
 ```
+
+## OUTPUT 4: -
+
+![image](https://github.com/user-attachments/assets/f1a39b4b-a5e2-4b20-9bcb-ef5275ecf10d)
 
 ## Conclusion:
 
